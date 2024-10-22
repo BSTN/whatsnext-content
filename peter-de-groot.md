@@ -1,7 +1,7 @@
 ---
 title: Peter de Groot
 description: Diagnose van Peter de Groot
-background: "#425363"
+theme: 1
 ---
 
 ::landing
