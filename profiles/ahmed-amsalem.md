@@ -1,7 +1,7 @@
 ---
 title: Ahmed Amsalem
 description: Diagnose van Ahmed Amsalem
-theme: 1
+theme: 2
 ---
 
 ::landing
@@ -26,7 +26,7 @@ De volgende informatie is gegenereerd op basis van uw profiel in combinatie met 
 ::profile
 ---
 fields:
-  Naam: Peter de Groot
+  Naam: Ahmed Amsalem
   Geboortedatum: 12 Maart 1956
   Geslacht: Man
   Opleiding: MBO

@@ -1,7 +1,7 @@
 ---
 title: Marianne Witteveen
 description: Diagnose van Marianne Witteveen
-theme: 1
+theme: 3
 ---
 
 ::landing
