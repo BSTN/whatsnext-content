@@ -75,10 +75,10 @@ Melanomen zijn gevaarlijk omdat ze kunnen uitgroeien tot ernstige gezondheidspro
 
 ::pictogram
 ---
-range: 40
-rows: 4
+range: 100
+rows: 5
 gap: 1
-data: [6,10]
+data: [16,40]
 labels:
   - 16 op de 100 mensen zoals u heeft erge problemen
   - 40 op de 100 mensen zoals u heeft een beetje problemen
