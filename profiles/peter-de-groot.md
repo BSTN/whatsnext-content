@@ -146,7 +146,6 @@ Maar ze heeft ondanks alles haar leven opnieuw opgeschaald. Ze is begonnen met y
 ::story-inline
 ---
 image: 11
-filter: false
 name: Ahmed
 age: 48
 description: De dokter zei haar dat als ze te veel tijd in de zon kwam door te brengen, het risico op een nieuwe groei verhoogde.
