@@ -152,7 +152,7 @@ Maar ze heeft ondanks alles haar leven opnieuw opgeschaald. Ze is begonnen met y
 
 ::story-inline
 ---
-image: 11
+image: 10
 filter: false
 name: Ahmed
 age: 48
