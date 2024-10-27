@@ -63,8 +63,8 @@ ysteps: 10
 
 ::quote
 ---
-name: "Ahmed Amsalem"
-image: 1
+name: "Mehmed"
+image: 10
 ---
 Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij de grafiek hierboven.
 ::
