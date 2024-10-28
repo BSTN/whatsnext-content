@@ -12,9 +12,17 @@ Elk profiel heeft metadata bovenaan staan tussen de ---. Voor nu is dat:
 
 ## Menu
 
-Het menu wordt automatisch aangemaakt gebaseerd op h1 kopjes (regels beginnen met # ).
+Het menu wordt automatisch aangemaakt gebaseerd op h1 kopjes (regels beginnen met # ). Zie chapters component.
 
 ## Componenten
+
+### Chapters:
+
+Dit is een overzicht van alle relevante kopjes (regels beginnen met # ) en zorgt ook direct voor het menu dat bovenin zichtbaar blijft.
+
+```
+:chapters
+```
 
 ### Landing component:
 ```
