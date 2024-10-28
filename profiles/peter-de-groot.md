@@ -38,8 +38,8 @@ fields:
 
 ::quote
 ---
-name: "Jan de Wit"
-image: 14
+name: "Samuel de Wit"
+image: 22
 ---
 Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
 ::
