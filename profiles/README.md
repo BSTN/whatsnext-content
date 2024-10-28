@@ -10,6 +10,10 @@ Elk profiel heeft metadata bovenaan staan tussen de ---. Voor nu is dat:
 - theme: {nummer}
 ```
 
+## Menu
+
+Het menu wordt automatisch aangemaakt gebaseerd op h1 kopjes (regels beginnen met # ).
+
 ## Componenten
 
 ### Landing component:
