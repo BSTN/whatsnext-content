@@ -163,12 +163,6 @@ ysteps: 10
 ---
 ::
 
-::quote
----
-name: "Mehmed"
-image: 3
----
-
 # Gedeelde ervaringen
 
 ::story-inline
