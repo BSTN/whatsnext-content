@@ -97,7 +97,7 @@ labels:
 ```
 "data:" heeft enkel 2 waardes, de rest
 
-## Story inline:
+### Story inline:
 
 Dit is voor de persoonlijke ervaringen momenteel onderaan:
 
