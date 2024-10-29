@@ -76,7 +76,16 @@ labels:
 ---
 ::
 
-Of 'verstopt' achter een knop: 
+
+::quote
+---
+name: "Mehmed"
+image: 3
+---
+Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij de grafiek hierboven.
+::
+
+Of de pictogram kan 'verstopt' achter een knop staan: 
 
 ::pictogram
 ---
