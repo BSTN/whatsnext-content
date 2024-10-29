@@ -6,8 +6,8 @@ theme: 2
 
 ::landing
 ---
-logo: Wat nu?
-title: "Na de diagnose: een persoonlijk overzicht"
+logo: What's next?
+title: "After the diagnoses: a personal overview"
 languages:
   nl: Nederlands
   en: English
