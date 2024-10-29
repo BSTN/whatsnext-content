@@ -39,7 +39,7 @@ fields:
 ::quote
 ---
 name: "Samuel de Wit"
-image: 22
+image: 5
 ---
 Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
 ::
@@ -138,7 +138,7 @@ Met een glimlach en hoop ga ik verder met het leven dat voor mij ligt.
 
 ::story-inline
 ---
-image: 5
+image: 1
 name: Veronique
 age: 63
 description: Ik herinner me dat ze een beetje was afgeleid geworden sinds de diagnose.
@@ -153,7 +153,7 @@ Maar ze heeft ondanks alles haar leven opnieuw opgeschaald. Ze is begonnen met y
 
 ::story-inline
 ---
-image: 11
+image: 3
 name: Ahmed
 age: 48
 description: De dokter zei haar dat als ze te veel tijd in de zon kwam door te brengen, het risico op een nieuwe groei verhoogde.
@@ -177,7 +177,7 @@ wereld vast te leggen, hoewel op een andere manier.
 
 ::story-inline
 ---
-image: 22
+image: 5
 name: Kai
 age: 34
 description: "Hoe meer je in staat bent om je gevoelens, angsten en onzekerheid te delen met anderen, des te sterker en moediger je wordt."

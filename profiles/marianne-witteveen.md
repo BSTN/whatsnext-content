@@ -130,7 +130,7 @@ Met een glimlach en hoop ga ik verder met het leven dat voor mij ligt.
 
 ::story-inline
 ---
-image: 5
+image: 1
 name: Veronique
 age: 63
 description: Ik herinner me dat ze een beetje was afgeleid geworden sinds de diagnose.
@@ -145,7 +145,7 @@ Maar ze heeft ondanks alles haar leven opnieuw opgeschaald. Ze is begonnen met y
 
 ::story-inline
 ---
-image: 10
+image: 3
 name: Ahmed
 age: 48
 description: De dokter zei haar dat als ze te veel tijd in de zon kwam door te brengen, het risico op een nieuwe groei verhoogde.
