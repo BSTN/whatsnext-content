@@ -52,24 +52,6 @@ Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormal
 
 Melanome kunnen erg gevaarlijk zijn omdat ze zich snel in de omgeving van de oorspronkelijke tumor verspreiden. Ze worden vaak voorgesteld als een donkerder teint op de huid, maar deze verschijnselen kunnen ook erg divers zijn, van kleine, fijne punten tot grote en heldere zwellingen.
 
-::plot
----
-xlabel: Jaren
-ylabel: Overlevingskans in %
-labels: 
-  - Voor Nederlanders in het algemeen
-  - Voor mannen zoals jij
-data: 
-  - [[0,100],[5,80],[10,75],[15,20],[20,5]]
-  - [[0,100],[5,60],[10,45],[15,10],[20,0]]
-xminmax: [0, 20]
-yminmax: [0, 100]
-xsteps: 4
-ysteps: 10
----
-::
-
-
 Er zijn verschillende soorten melanomen:
 
 1. **Melanoom (invasief)**: Dit is de meest gevaarlijke vorm van melanoom, waarbij abnormale cellen zich delen en zich uitbreiden naar omringende weefsels.
@@ -93,6 +75,24 @@ labels:
   - 44 op de 100 mensen zoals u heeft geen problemen
 ---
 ::
+
+Of 'verstopt' achter een knop: 
+
+::pictogram
+---
+range: 100
+rows: 5
+gap: 1
+data: [16,40]
+button: true
+buttontext: "Bekijk hier de statistieken"
+labels:
+  - 16 op de 100 mensen zoals u heeft erge problemen
+  - 40 op de 100 mensen zoals u heeft een beetje problemen
+  - 44 op de 100 mensen zoals u heeft geen problemen
+---
+::
+
 
 # Mijn behandeling
 
@@ -133,6 +133,23 @@ de dingen die nog werken in plaats van mijn energie door te geven aan de
 onzekerheid over de toekomst.
 
 Met een glimlach en hoop ga ik verder met het leven dat voor mij ligt.
+
+::plot
+---
+xlabel: Jaren
+ylabel: Overlevingskans in %
+labels: 
+  - Voor Nederlanders in het algemeen
+  - Voor mannen zoals jij
+data: 
+  - [[0,100],[5,80],[10,75],[15,20],[20,5]]
+  - [[0,100],[5,60],[10,45],[15,10],[20,0]]
+xminmax: [0, 20]
+yminmax: [0, 100]
+xsteps: 4
+ysteps: 10
+---
+::
 
 # Gedeelde ervaringen
 

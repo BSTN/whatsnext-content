@@ -86,6 +86,23 @@ labels:
 ---
 ::
 
+Of 'verstopt' achter een knop: 
+
+::pictogram
+---
+range: 100
+rows: 5
+gap: 1
+data: [16,40]
+button: true
+buttontext: "Bekijk hier de statistieken"
+labels:
+  - 16 op de 100 mensen zoals u heeft erge problemen
+  - 40 op de 100 mensen zoals u heeft een beetje problemen
+  - 44 op de 100 mensen zoals u heeft geen problemen
+---
+::
+
 # Mijn behandeling
 
 De meest effectieve manier om melanoom in de vroege stadia op tijd te identificeren en te behandelen is het gebruik van zonnebrandcrème. Melanomen worden voornamelijk gevonden bij mensen met een huid die gevoelig is voor UV-straling.

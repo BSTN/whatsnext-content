@@ -79,13 +79,15 @@ Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij 
 
 ### Pictogram:
 
-Poppetjes chart met de volgende velden:
+Poppetjes chart met de volgende velden, waarbij "button: false/true" aangeeft of je het direct wilt zien, of alleen na het klikken op een knop.
 ```
 ::pictogram
 ---
 range: 100
 rows: 5
 data: [16,40]
+button: false
+buttontext: "Bekijk hier de statistieken."
 labels:
   - 16 op de 100 mensen zoals u heeft erge problemen
   - 40 op de 100 mensen zoals u heeft een beetje problemen
