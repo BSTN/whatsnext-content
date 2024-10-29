@@ -36,6 +36,15 @@ fields:
 ---
 ::
 
+::quote
+---
+name: "Samuel de Wit"
+image: 5
+---
+Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
+::
+
+
 Het voorkomen van melanoom, een zeer ernstige vorm van huidkanker, vereist attentie. De diagnose wordt gewoonlijk gesteld na een zorgvuldige onderzoekprocedure, inclusief een biopsie om te bevestigen dat de groei kankercellen is. Melanoom manifesteert zich meestal als een nieuw moedervlek die significant verandert in grootte, vorm of kleur. Het kan ook gepaard gaan met pijnlijke bloedingen.
 
 # Wat is een melanoom?
