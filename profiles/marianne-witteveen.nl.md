@@ -16,7 +16,7 @@ languages:
 ::
 
 ::intro
-Hallo Marianne, hier kun je verschillende persoonlijke gegevens vinden. Deze gegevens zijn samengesteld door vragenlijsten die je eerder hebt ingevuld te vergelijken met patiënten in een zelfde soort situatie (bijvoorbeeld met dezelfde ziekte, leeftijd en fitheid). 
+Hallo Marianne, hier kun je verschillende persoonlijke gegevens vinden. Deze gegevens zijn samengesteld door vragenlijsten die je eerder hebt ingevuld te vergelijken met patiënten in eenzelfde soort situatie (bijvoorbeeld met dezelfde diagnose, type tumor, leeftijd en fitheid). 
 ::
 
 :chapters
@@ -28,17 +28,20 @@ Hallo Marianne, hier kun je verschillende persoonlijke gegevens vinden. Deze geg
 fields:
   Naam: Marianne Witteveen
   Geboortedatum: 12 Maart 1956
-  Geslacht: Man
+  Geslacht: Vrouw
   Opleiding: MBO
   Burgerlijke staat: Samenwonend
   Diagnose: Melanoom
   Datum diagnose: 21 April 2024
+  Comorbiditeiten: 0
+  Gradering tumor: stadium 3
+  
 ---
 ::
 
 ::quote
 ---
-name: "Samuel de Wit"
+name: "Samantha de Wit"
 image: 5
 ---
 Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
