@@ -101,36 +101,6 @@ labels:
 
 Uit uw gegevens blijkt dat u een operatie heeft gehad. Een operatie heeft een positief effect op uw overlevingskansen. Hieronder kunt u de overlevingskansen voor uw type kanker, leeftijfdgroep en ... vinden. 
 
-GRAFIEK MET OVERLEVING
-
-# Mijn kwaliteit van leven
-
-Uw ziekte en de operatie kunnen ook (tijdelijk) invloed hebben op uw kwaliteit van leven. Hieronder ziet u wat de mogelijk impact is bij mensen met een vergelijkbare behandeling, type tumor, leeftijd, fitheid en ... . 
-
-Kwaliteit van leven wordt opgesplitst in verschillende domeinen. Zo kunnen er fysieke gevolgen zijn, maar ook sociale en emotionele gevolgen of impact op uw werksituatie. U kunt de domeinen die u relevant vindt aanklikken en kijken hoe kwaliteit van leven mogelijk beïnvloed kan worden in uw geval. 
-
- GRAFIEK (icon arrays) met meerdere domeinen --> klikbaar. 
-
-
-# Ervaringen van anderen
-
-Samantha (76) kreeg in 2020 de diagnose melanoom.
-
-“Ik ontdekte een vreemd plekje op mijn been. Eerst dacht ik dat het niks was, maar voor de zekerheid ben ik langs de huisarts gegaan. Er is toen een biopt genomen in het ziekenhuis en daar bleek uit dat ik huidkanker had. Natuurlijk weet ik dat ik op mijn leeftijd ziek kan worden, toch schrok ik wel.”
-
-Als onderdeel van haar behandeltraject moest Hanneke regelmatig vragenlijsten invullen. Ze kreeg hiervan de uitslagen te zien zodat ze een idee kreeg hoe haar klachten veranderden. Bijvoorbeeld over lichamelijk functioneren:
-
-“Ik wist niet goed wat ik kon verwachten na de behandeling, kon ik bijvoorbeeld nog wel actief van mijn pensioen genieten en op vakantie? Eerst was ik niet zeker of ik mijn eigen uitslagen van de vragenlijst voor lichamelijk functioneren wel wilde weten, maar het hielp bij het beantwoorden van die vragen. Toen ik zag dat mijn uitslag beter was dan de drempelwaarde, was dat toch wel een geruststelling. Natuurlijk betekent dat niet dat ik helemaal niets voelde van de behandeling, maar het had wel erger gekund. Met kleine aanpassingen kon ik weer wandelen en actief met de kleinkinderen omgaan.”
-
-Over rolfunctioneren ontving Hanneke ook informatie.
-
-“De informatie over rolfunctioneren was nieuw voor mij, ik wist niet wat dat betekende. Blijkbaar gaat het over de mogelijke invloed op het gezinsleven, een partnerrelatie, de huishoudelijke taken, werk of studie, sociaal leven en activiteiten in de vrije tijd. Natuurlijk zijn niet alle voorbeelden even relevant voor mij, ik werk al een tijd niet meer. Maar, de invloed van de ziekte op mijn sociale leven en mijn partner zijn wel belangrijk voor mij. Ik vond het daarom een opluchting om te merken dat ik mijn gebruikelijke activiteiten weer redelijk snel kon oppakken.”
-
-Hanneke kijkt terug op haar ervaringen:
-
-“Het is nu twee jaar later en de heftige behandelperiode achter de rug. Toch heeft kanker nog steeds veel invloed op mijn leven. Je hoort natuurlijk vaker dat mensen heel anders tegen het leven zijn aan gaan kijken, dat herken ik wel. Ik vond het in het begin bijvoorbeeld lastig om familiebezoek vol te houden, terwijl ik daar juist altijd zo naar uitkeek. Erover praten met mijn dierbaren helpt wel, zij snappen nu ook beter wanneer ik even rust moet houden. Ik probeer nu meer van het leven te genieten."
-
-
 ::plot
 ---
 xlabel: Jaren
@@ -147,6 +117,36 @@ xsteps: 4
 ysteps: 10
 ---
 ::
+
+# Mijn kwaliteit van leven
+
+Uw ziekte en de operatie kunnen ook (tijdelijk) invloed hebben op uw kwaliteit van leven. Hieronder ziet u wat de mogelijk impact is bij mensen met een vergelijkbare behandeling, type tumor, leeftijd, fitheid en ... . 
+
+Kwaliteit van leven wordt opgesplitst in verschillende domeinen. Zo kunnen er fysieke gevolgen zijn, maar ook sociale en emotionele gevolgen of impact op uw werksituatie. U kunt de domeinen die u relevant vindt aanklikken en kijken hoe kwaliteit van leven mogelijk beïnvloed kan worden in uw geval. 
+
+ GRAFIEK (icon arrays) met meerdere domeinen --> klikbaar. 
+
+
+# Ervaringen van anderen
+
+Samantha (76) kreeg in 2020 de diagnose melanoom.
+
+“Ik ontdekte een vreemd plekje op mijn been. Eerst dacht ik dat het niks was, maar voor de zekerheid ben ik langs de huisarts gegaan. Er is toen een biopt genomen in het ziekenhuis en daar bleek uit dat ik huidkanker had. Natuurlijk weet ik dat ik op mijn leeftijd ziek kan worden, toch schrok ik wel.”
+
+Als onderdeel van haar behandeltraject moest Samantha regelmatig vragenlijsten invullen. Ze kreeg hiervan de uitslagen te zien zodat ze een idee kreeg hoe haar klachten veranderden. Bijvoorbeeld over lichamelijk functioneren:
+
+“Ik wist niet goed wat ik kon verwachten na de behandeling, kon ik bijvoorbeeld nog wel actief van mijn pensioen genieten en op vakantie? Eerst was ik niet zeker of ik mijn eigen uitslagen van de vragenlijst voor lichamelijk functioneren wel wilde weten, maar het hielp bij het beantwoorden van die vragen. Toen ik zag dat mijn uitslag beter was dan de drempelwaarde, was dat toch wel een geruststelling. Natuurlijk betekent dat niet dat ik helemaal niets voelde van de behandeling, maar het had wel erger gekund. Met kleine aanpassingen kon ik weer wandelen en actief met de kleinkinderen omgaan.”
+
+Over rolfunctioneren ontving Samantha ook informatie.
+
+“De informatie over rolfunctioneren was nieuw voor mij, ik wist niet wat dat betekende. Blijkbaar gaat het over de mogelijke invloed op het gezinsleven, een partnerrelatie, de huishoudelijke taken, werk of studie, sociaal leven en activiteiten in de vrije tijd. Natuurlijk zijn niet alle voorbeelden even relevant voor mij, ik werk al een tijd niet meer. Maar, de invloed van de ziekte op mijn sociale leven en mijn partner zijn wel belangrijk voor mij. Ik vond het daarom een opluchting om te merken dat ik mijn gebruikelijke activiteiten weer redelijk snel kon oppakken.”
+
+Samantha kijkt terug op haar ervaringen:
+
+“Het is nu twee jaar later en de heftige behandelperiode achter de rug. Toch heeft kanker nog steeds veel invloed op mijn leven. Je hoort natuurlijk vaker dat mensen heel anders tegen het leven zijn aan gaan kijken, dat herken ik wel. Ik vond het in het begin bijvoorbeeld lastig om familiebezoek vol te houden, terwijl ik daar juist altijd zo naar uitkeek. Erover praten met mijn dierbaren helpt wel, zij snappen nu ook beter wanneer ik even rust moet houden. Ik probeer nu meer van het leven te genieten."
+
+
+
 
 # Gedeelde ervaringen
 
