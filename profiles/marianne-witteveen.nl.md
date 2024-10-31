@@ -50,9 +50,11 @@ De diagnose huidkanker kwam als een schok, ik ben nog veel te jong om achter de 
 
 Door gegevens van verschillende patiënten die op u lijken te combineren hebben we voor u ervaringsdeskundige Samantha ontworpen. Samantha is geen echte patiënt, maar is samengesteld door de meest relevante gegevens voor u te selecteren op basis van honderden patiënten. Samantha heeft daardoor precies dezelfde diagnose, leeftijd, fitheid en woonsituatie als u waardoor u zichzelf met haar kan vergelijken. 
 
-# Wat is een melanoom?
+# Hoe vaak komt huidkanker voor bij mensen zoals u?
 
 Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormale cellen zijn, die zich snel delen en uitgroeien tot een tumor. Melanomen worden meestal veroorzaakt door schade aan het DNA van melanocyten (cellen die pigment produceren) door straling, chemische stoffen of virussen. Voor uitgebreide en betrouwbare informatie kunt u op de website kanker.nl kijken.
+
+In 2023 zijn ongeveer 24.400 nieuwe gevallen van huidkanker, exclusief basaalcelcarcinoom vastgesteld. Daarvan waren 4200 vrouw. Van deze vrouwen hadden 444 dezelfde leeftijd als u. Bron: Nederlandse Kanker Registratie (NKR). 
 
 ::pictogram
 ---
