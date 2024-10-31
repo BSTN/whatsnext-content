@@ -52,20 +52,7 @@ Door gegevens van verschillende patiënten die op u lijken te combineren hebben 
 
 # Wat is een melanoom?
 
-Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormale cellen zijn, die zich snel delen en uitgroeien tot een tumor. Melanomen worden meestal veroorzaakt door schade aan het DNA van melanocyten (cellen die pigment produceren) door straling, chemische stoffen of virussen.
-
-Melanome kunnen erg gevaarlijk zijn omdat ze zich snel in de omgeving van de oorspronkelijke tumor verspreiden. Ze worden vaak voorgesteld als een donkerder teint op de huid, maar deze verschijnselen kunnen ook erg divers zijn, van kleine, fijne punten tot grote en heldere zwellingen.
-
-Er zijn verschillende soorten melanomen:
-
-1. **Melanoom (invasief)**: Dit is de meest gevaarlijke vorm van melanoom, waarbij abnormale cellen zich delen en zich uitbreiden naar omringende weefsels.
-2. **Radiale melanoom**: Een minder agressieve vorm van melanoom die zich uitsluitend in de oppervlakte van de huid bevindt.
-3. **Spindlecelmelanoom**: Een nog minder agressieve vorm van melanoom, voornamelijk gevonden bij vrouwen.
-
-Melanomen zijn gevaarlijk omdat ze kunnen uitgroeien tot ernstige gezondheidsproblemen als:
-
-*   De tumor zich naar de alvleeswortel verspreidt (metastaseren), waarbij er cellen in andere delen van het lichaam worden gevonden.
-*   Het omgevingweefsel wordt beschadigd en pijnlijk is, wat moeilijk te behandelen kan zijn.
+Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormale cellen zijn, die zich snel delen en uitgroeien tot een tumor. Melanomen worden meestal veroorzaakt door schade aan het DNA van melanocyten (cellen die pigment produceren) door straling, chemische stoffen of virussen. Voor uitgebreide en betrouwbare informatie kunt u op de website kanker.nl kijken.
 
 ::pictogram
 ---
