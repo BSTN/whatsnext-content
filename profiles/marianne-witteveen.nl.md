@@ -44,7 +44,7 @@ fields:
 name: "Samantha de Wit"
 image: 5
 ---
-Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
+Door gegevens van verschillende patiënten die op u lijken te combineren hebben we voor u ervaringsdeskundige Samantha ontworpen. Samantha is geen echte patiënt, maar is samengesteld door de meest relevante gegevens voor u te selecteren op basis van honderden patiënten. Samantha heeft daardoor precies dezelfde diagnose, leeftijd, fitheid en woonsituatie als u waardoor u zichzelf met haar kan vergelijken. 
 ::
 
 
