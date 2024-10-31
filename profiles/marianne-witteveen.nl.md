@@ -16,7 +16,7 @@ languages:
 ::
 
 ::intro
-Hallo Marianne, op deze webpagina vind je meer informatie over je diagnose. Aan de hand van jouw persoonlijke profiel hebben we tekst en data samengesteld die voor jou relevant is.
+Hallo Marianne, hier kun je verschillende persoonlijke gegevens vinden. Deze gegevens zijn samengesteld door vragenlijsten die je eerder hebt ingevuld te vergelijken met patiënten in een zelfde soort situatie (bijvoorbeeld met dezelfde ziekte, leeftijd en fitheid). 
 ::
 
 :chapters
