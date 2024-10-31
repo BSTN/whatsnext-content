@@ -107,7 +107,7 @@ xlabel: Jaren
 ylabel: Overlevingskans in %
 labels: 
   - Voor Nederlanders in het algemeen
-  - Voor mannen zoals jij
+  - Voor vrouwen zoals u
 data: 
   - [[0,100],[5,80],[10,75],[15,20],[20,5]]
   - [[0,100],[5,60],[10,45],[15,10],[20,0]]
@@ -126,8 +126,29 @@ Kwaliteit van leven wordt opgesplitst in verschillende domeinen. Zo kunnen er fy
 
  GRAFIEK (icon arrays) met meerdere domeinen --> klikbaar. 
 
+ ::pictogram
+---
+range: 100
+rows: 5
+gap: 1
+data: [16,40]
+labels:
+  - 16 op de 100 mensen zoals u heeft erge problemen
+  - 40 op de 100 mensen zoals u heeft een beetje problemen
+  - 44 op de 100 mensen zoals u heeft geen problemen
+---
+::
 
-# Ervaringen van anderen
+
+# Gedeelde ervaringen
+
+::story-inline
+---
+image: 1
+name: Samantha
+age: 63
+description: Smantha blikt terug op haar proces.
+---
 
 Samantha (76) kreeg in 2020 de diagnose melanoom.
 
@@ -144,25 +165,6 @@ Over rolfunctioneren ontving Samantha ook informatie.
 Samantha kijkt terug op haar ervaringen:
 
 “Het is nu twee jaar later en de heftige behandelperiode achter de rug. Toch heeft kanker nog steeds veel invloed op mijn leven. Je hoort natuurlijk vaker dat mensen heel anders tegen het leven zijn aan gaan kijken, dat herken ik wel. Ik vond het in het begin bijvoorbeeld lastig om familiebezoek vol te houden, terwijl ik daar juist altijd zo naar uitkeek. Erover praten met mijn dierbaren helpt wel, zij snappen nu ook beter wanneer ik even rust moet houden. Ik probeer nu meer van het leven te genieten."
-
-
-
-
-# Gedeelde ervaringen
-
-::story-inline
----
-image: 1
-name: Veronique
-age: 63
-description: Ik herinner me dat ze een beetje was afgeleid geworden sinds de diagnose.
----
-
-Mijn zus kreeg de diagnose melanoom toen ze 35 was. Ze had een donkere plek op haar rug die plotseling groeide en naar buiten begon te scheuren. De dokter vond het eerst bij toeval, maar ze moest wel onmiddellijk in behandeling worden genomen om het ziekteproces te stoppen.
-
-Ik herinner me dat ze een beetje was afgeleid geworden sinds de diagnose. Ze maakte zich grote zorgen over haar kinderen en of ze er ooit zou zijn voor hun belangrijkste momenten, zoals hun trouwfeest of de geboorte van hun eigen kinderen.
-
-Maar ze heeft ondanks alles haar leven opnieuw opgeschaald. Ze is begonnen met yoga om gestress te verminderen en heeft zich ingezet om anderen te helpen die eveneens worstelen met het kwaad dat bijna in een donkere tunnel zit.
 ::
 
 ::story-inline
