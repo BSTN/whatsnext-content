@@ -150,7 +150,7 @@ age: 63
 description: Smantha blikt terug op haar proces.
 ---
 
-Samantha (76) kreeg in 2020 de diagnose melanoom.
+Samantha (63) kreeg in 2020 de diagnose melanoom.
 
 “Ik ontdekte een vreemd plekje op mijn been. Eerst dacht ik dat het niks was, maar voor de zekerheid ben ik langs de huisarts gegaan. Er is toen een biopt genomen in het ziekenhuis en daar bleek uit dat ik huidkanker had. Natuurlijk weet ik dat ik op mijn leeftijd ziek kan worden, toch schrok ik wel.”
 
