@@ -97,45 +97,39 @@ labels:
 ---
 ::
 
-# Mijn behandeling
+# Mijn behandeling en overleving
 
-De meest effectieve manier om melanoom in de vroege stadia op tijd te identificeren en te behandelen is het gebruik van zonnebrandcrème. Melanomen worden voornamelijk gevonden bij mensen met een huid die gevoelig is voor UV-straling.
+Uit uw gegevens blijkt dat u een operatie heeft gehad. Een operatie heeft een positief effect op uw overlevingskansen. Hieronder kunt u de overlevingskansen voor uw type kanker, leeftijfdgroep en ... vinden. 
 
-Een arts kan verschillende behandelingsopties aanbevelen, afhankelijk van de ernst en de omvang van de kanker:
+GRAFIEK MET OVERLEVING
 
-1.  **Operatie**: Een operatie wordt vaak gebruikt om grote melanomen te verwijderen. Vervolgens wordt de huid geanalyseerd op abnormale cellen.
-2.  **Chirurgische ingrepen**: Bij kleinere melanomen kunnen chirurgische ingrepen worden uitgevoerd, zoals cryotheerapie (een procede waarbij een cel zich ontwikkelt tot een kanker en vervolgens wordt verwijderd met behulp van een zeer koude vloeistof).
-3.  **Behandelingen die in plaats van chirurgische ingrepen kunnen worden gebruikt**: Deze omvatten het gebruik van chemotherapie, bestralingstherapie en immunotherapie.
+# Mijn kwaliteit van leven
 
-Melanoom kan bij mensen van alle leeftijden voorkomen, maar de kans op overlevering is groter als er vroeg wordt behandeld.
+Uw ziekte en de operatie kunnen ook (tijdelijk) invloed hebben op uw kwaliteit van leven. Hieronder ziet u wat de mogelijk impact is bij mensen met een vergelijkbare behandeling, type tumor, leeftijd, fitheid en ... . 
 
-# Mijn toekomst
+Kwaliteit van leven wordt opgesplitst in verschillende domeinen. Zo kunnen er fysieke gevolgen zijn, maar ook sociale en emotionele gevolgen of impact op uw werksituatie. U kunt de domeinen die u relevant vindt aanklikken en kijken hoe kwaliteit van leven mogelijk beïnvloed kan worden in uw geval. 
 
-Ik weet dat de dagen geteld worden sinds mijn diagnose. De zonneschijn die
-vroeger zo waardevol was, wordt nu vaak gezeurd. Elke plek op mijn huid
-wordt doorzocht naar nieuwe symptomen.
+ GRAFIEK (icon arrays) met meerdere domeinen --> klikbaar. 
 
-Maar het leven gaat gewoon door. Ik ga nog steeds wandelen in de tuin en
-kijken naar de bloemen die bloeien onder de bladeren van de bomen. De
-zonsopkomst is nog net zo mooi als altijd, maar nu zie ik erdoorheen alsof
-ik ze al uren kende.
 
-Ik vind het moeilijk om te accepteren dat ik mijn kinderen en
-kleinkinderen niet zal zien groeien naar volwassen mensen. Maar ik denk
-dat ze in mij een voorbeeld zullen zien om het leven volledig te leven,
-ondanks de uitdagingen die me worden voorgesteld.
+# Ervaringen van anderen
 
-Ik heb geleerd om waardering te hebben voor elk moment en elk uur dat ik
-nog met hen kan doorbrengen. En hoewel mijn tijd beperkt is, zal zeer
-zeker een deel van mij blijven leven in hun herinneringen en in alles wat
-ik ze heb leren kroppen.
+Samantha (76) kreeg in 2020 de diagnose melanoom.
 
-Het zou gemakkelijker zijn als het allemaal anders was. Maar zoals altijd,
-is het nu wat er is geworden. Ik zal doen mijn best om me te focussen op
-de dingen die nog werken in plaats van mijn energie door te geven aan de
-onzekerheid over de toekomst.
+“Ik ontdekte een vreemd plekje op mijn been. Eerst dacht ik dat het niks was, maar voor de zekerheid ben ik langs de huisarts gegaan. Er is toen een biopt genomen in het ziekenhuis en daar bleek uit dat ik huidkanker had. Natuurlijk weet ik dat ik op mijn leeftijd ziek kan worden, toch schrok ik wel.”
 
-Met een glimlach en hoop ga ik verder met het leven dat voor mij ligt.
+Als onderdeel van haar behandeltraject moest Hanneke regelmatig vragenlijsten invullen. Ze kreeg hiervan de uitslagen te zien zodat ze een idee kreeg hoe haar klachten veranderden. Bijvoorbeeld over lichamelijk functioneren:
+
+“Ik wist niet goed wat ik kon verwachten na de behandeling, kon ik bijvoorbeeld nog wel actief van mijn pensioen genieten en op vakantie? Eerst was ik niet zeker of ik mijn eigen uitslagen van de vragenlijst voor lichamelijk functioneren wel wilde weten, maar het hielp bij het beantwoorden van die vragen. Toen ik zag dat mijn uitslag beter was dan de drempelwaarde, was dat toch wel een geruststelling. Natuurlijk betekent dat niet dat ik helemaal niets voelde van de behandeling, maar het had wel erger gekund. Met kleine aanpassingen kon ik weer wandelen en actief met de kleinkinderen omgaan.”
+
+Over rolfunctioneren ontving Hanneke ook informatie.
+
+“De informatie over rolfunctioneren was nieuw voor mij, ik wist niet wat dat betekende. Blijkbaar gaat het over de mogelijke invloed op het gezinsleven, een partnerrelatie, de huishoudelijke taken, werk of studie, sociaal leven en activiteiten in de vrije tijd. Natuurlijk zijn niet alle voorbeelden even relevant voor mij, ik werk al een tijd niet meer. Maar, de invloed van de ziekte op mijn sociale leven en mijn partner zijn wel belangrijk voor mij. Ik vond het daarom een opluchting om te merken dat ik mijn gebruikelijke activiteiten weer redelijk snel kon oppakken.”
+
+Hanneke kijkt terug op haar ervaringen:
+
+“Het is nu twee jaar later en de heftige behandelperiode achter de rug. Toch heeft kanker nog steeds veel invloed op mijn leven. Je hoort natuurlijk vaker dat mensen heel anders tegen het leven zijn aan gaan kijken, dat herken ik wel. Ik vond het in het begin bijvoorbeeld lastig om familiebezoek vol te houden, terwijl ik daar juist altijd zo naar uitkeek. Erover praten met mijn dierbaren helpt wel, zij snappen nu ook beter wanneer ik even rust moet houden. Ik probeer nu meer van het leven te genieten."
+
 
 ::plot
 ---
