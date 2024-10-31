@@ -56,7 +56,7 @@ Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormal
 
 In 2023 zijn ongeveer 24.400 nieuwe gevallen van huidkanker, exclusief basaalcelcarcinoom vastgesteld. Daarvan waren 4.200 vrouw. Van deze vrouwen hadden 444 dezelfde leeftijd als u. 
 
-Bron: Nederlandse Kanker Registratie (NKR). 
+Bron: Nederlandse Kanker Registratie (NKR) (https://www.vzinfo.nl/huidkanker/leeftijd-en-geslacht). 
 
 ::pictogram
 ---
