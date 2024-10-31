@@ -44,11 +44,11 @@ fields:
 name: "Samantha de Wit"
 image: 5
 ---
-Door gegevens van verschillende patiënten die op u lijken te combineren hebben we voor u ervaringsdeskundige Samantha ontworpen. Samantha is geen echte patiënt, maar is samengesteld door de meest relevante gegevens voor u te selecteren op basis van honderden patiënten. Samantha heeft daardoor precies dezelfde diagnose, leeftijd, fitheid en woonsituatie als u waardoor u zichzelf met haar kan vergelijken. 
+De diagnose huidkanker kwam als een schok, ik ben nog veel te jong om achter de garaniums te zitten!
 ::
 
 
-Het voorkomen van melanoom, een zeer ernstige vorm van huidkanker, vereist attentie. De diagnose wordt gewoonlijk gesteld na een zorgvuldige onderzoekprocedure, inclusief een biopsie om te bevestigen dat de groei kankercellen is. Melanoom manifesteert zich meestal als een nieuw moedervlek die significant verandert in grootte, vorm of kleur. Het kan ook gepaard gaan met pijnlijke bloedingen.
+Door gegevens van verschillende patiënten die op u lijken te combineren hebben we voor u ervaringsdeskundige Samantha ontworpen. Samantha is geen echte patiënt, maar is samengesteld door de meest relevante gegevens voor u te selecteren op basis van honderden patiënten. Samantha heeft daardoor precies dezelfde diagnose, leeftijd, fitheid en woonsituatie als u waardoor u zichzelf met haar kan vergelijken. 
 
 # Wat is een melanoom?
 
