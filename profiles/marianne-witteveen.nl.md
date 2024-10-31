@@ -54,7 +54,9 @@ Door gegevens van verschillende patiënten die op u lijken te combineren hebben 
 
 Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormale cellen zijn, die zich snel delen en uitgroeien tot een tumor. Melanomen worden meestal veroorzaakt door schade aan het DNA van melanocyten (cellen die pigment produceren) door straling, chemische stoffen of virussen. Voor uitgebreide en betrouwbare informatie kunt u op de website kanker.nl kijken.
 
-In 2023 zijn ongeveer 24.400 nieuwe gevallen van huidkanker, exclusief basaalcelcarcinoom vastgesteld. Daarvan waren 4200 vrouw. Van deze vrouwen hadden 444 dezelfde leeftijd als u. Bron: Nederlandse Kanker Registratie (NKR). 
+In 2023 zijn ongeveer 24.400 nieuwe gevallen van huidkanker, exclusief basaalcelcarcinoom vastgesteld. Daarvan waren 4.200 vrouw. Van deze vrouwen hadden 444 dezelfde leeftijd als u. 
+
+Bron: Nederlandse Kanker Registratie (NKR). 
 
 ::pictogram
 ---
@@ -72,10 +74,10 @@ labels:
 
 ::quote
 ---
-name: "Mehmed"
+name: "Smantha"
 image: 3
 ---
-Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij de grafiek hierboven.
+Uit de grafiek blijkt dat huidkanker relatief vaak bij mensen met dezelfde leeftijd en geslacht voorkomt. Dit zorgt ervoor dat mijn gegevens makkelijk vergeleken kunnen worden met soortgelijke patiënten. 
 ::
 
 Of de pictogram kan 'verstopt' achter een knop staan: 
