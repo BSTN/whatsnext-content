@@ -13,4 +13,4 @@ We propose to develop an intelligent software tool that automatically converts d
 
 [Login for oncology.](/login?type=oncology)
 
-[Login for trauma.]((/login?type=trauma))
+[Login for trauma.](/login?type=trauma)

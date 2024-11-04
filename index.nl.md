@@ -12,4 +12,4 @@ Wij stellen voor om een ​​intelligente softwaretool te ontwikkelen die autom
 
 [Hier kun je inloggen voor oncologie.](/login?type=oncology)
 
-[Hier kun je inloggen voor trauma.]((/login?type=trauma))
+[Hier kun je inloggen voor trauma.](/login?type=trauma)
