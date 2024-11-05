@@ -10,6 +10,6 @@ Zorginstellingen zoals ziekenhuizen verzamelen steeds meer informatie van en ove
 
 Wij stellen voor om een ​​intelligente softwaretool te ontwikkelen die automatisch gegevens uit verschillende bronnen omzet in gepersonaliseerde, multimodale informatiepresentaties, waarbij numerieke uitkomsten gecombineerd worden met visualisaties en patiëntverhalen.
 
-[Hier kun je inloggen voor oncologie.](/login?type=oncology)
+[Hier kun je inloggen voor oncologie.](/login/oncology)
 
-[Hier kun je inloggen voor trauma.](/login?type=trauma)
+[Hier kun je inloggen voor trauma.](/login/trauma)
