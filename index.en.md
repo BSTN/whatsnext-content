@@ -11,6 +11,6 @@ Healthcare organisations such as hospitals increasingly collect information from
 
 We propose to develop an intelligent software tool that automatically converts data from various sources into personalised, multimodal information presentations, combining factual text with visualisations and patient narratives. 
 
-[Login for oncology.](/login?type=oncology)
+[Login for oncology.](/login/oncology)
 
-[Login for trauma.](/login?type=trauma)
+[Login for trauma.](/login/trauma)
