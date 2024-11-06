@@ -43,8 +43,8 @@ Overview menu zorgt voor het menu bovenaan.
 Overview landing zorgt voor de speciale layout van de landing (het bovenste gedeelte van de pagina dat je het eerste ziet bij het laden van de pagina)
 
 ```
-:page-list
+:launchlinks
 ```
-Page list is een automatisch overzicht van de markdown files in de /profiles map.
+Een component voor specifieke layout voor het lanceren van de tool.
 
 Toelichting voor de componenten die je in de profielen kunt gebruiken staat in de profiles/README.md. (Klik op "profiles" map om die te zien).
