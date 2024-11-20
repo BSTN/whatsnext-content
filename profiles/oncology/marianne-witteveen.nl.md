@@ -66,6 +66,7 @@ labels:
   - 40 op de 100 mensen zoals u heeft een beetje problemen
   - 44 op de 100 mensen zoals u heeft geen problemen
 ---
+Hier kan je de uitleg met enkel tekst formuleren.
 ::
 
 ::pictogram
