@@ -58,6 +58,16 @@ In 2023 zijn ongeveer 24.400 nieuwe gevallen van huidkanker, exclusief basaalcel
 
 Bron: Nederlandse Kanker Registratie (NKR) (https://www.vzinfo.nl/huidkanker/leeftijd-en-geslacht). 
 
+::combined-charts
+---
+data: [16,40,44]
+labels:
+  - 16 op de 100 mensen zoals u heeft erge problemen
+  - 40 op de 100 mensen zoals u heeft een beetje problemen
+  - 44 op de 100 mensen zoals u heeft geen problemen
+---
+::
+
 ::pictogram
 ---
 range: 100

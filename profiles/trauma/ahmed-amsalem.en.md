@@ -63,6 +63,16 @@ Melanomen zijn gevaarlijk omdat ze kunnen uitgroeien tot ernstige gezondheidspro
 *   De tumor zich naar de alvleeswortel verspreidt (metastaseren), waarbij er cellen in andere delen van het lichaam worden gevonden.
 *   Het omgevingweefsel wordt beschadigd en pijnlijk is, wat moeilijk te behandelen kan zijn.
 
+::combined-charts
+---
+data: [16,40,44]
+labels:
+  - 16 op de 100 mensen zoals u heeft erge problemen
+  - 40 op de 100 mensen zoals u heeft een beetje problemen
+  - 44 op de 100 mensen zoals u heeft geen problemen
+---
+::
+
 ::pictogram
 ---
 range: 100
