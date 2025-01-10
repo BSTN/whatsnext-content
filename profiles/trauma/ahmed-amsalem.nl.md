@@ -7,7 +7,7 @@ theme: 2
 ::landing
 ---
 logo: Wat nu?
-title: "Na de diagnose: een persoonlijk overzicht"
+title: "Na het ongeval: een persoonlijk overzicht"
 languages:
   nl: Nederlands
   en: English
