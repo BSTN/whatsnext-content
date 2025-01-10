@@ -16,7 +16,7 @@ languages:
 ::
 
 ::intro
-Hallo Ahmed, op deze webpagina vind je meer informatie over je diagnose. Aan de hand van jouw persoonlijke profiel hebben we tekst en data samengesteld die voor jou relevant is.
+Hallo Ahmed, op deze webpagina vind je meer informatie over je leven na je ongeval in 2024. Aan de hand van jouw persoonlijke gegevens hebben we informatie samengesteld die voor jou handig kan zijn bij het herstel na je ongeval.
 ::
 
 :chapters
@@ -26,13 +26,13 @@ Hallo Ahmed, op deze webpagina vind je meer informatie over je diagnose. Aan de 
 ::profile
 ---
 fields:
-  Naam: Ahmed Amsalem
+  Naam: David
   Geboortedatum: 12 Maart 1956
   Geslacht: Man
   Opleiding: MBO
   Burgerlijke staat: Samenwonend
-  Diagnose: Melanoom
-  Datum diagnose: 21 April 2024
+  Type ongeval: Meerdere breuken
+  Datum ongeval: 21 April 2024
 ---
 ::
 
@@ -41,7 +41,7 @@ fields:
 name: "Samuel de Wit"
 image: 5
 ---
-Hier kun je een relevante 'ervarings' quote plaatsen, die bijvoorbeeld past bij het profiel hierboven.
+In 2019 kreeg ik een ongeluk waarbij ik veel breuken opliep. Erg onhandig, want voor al die verschillende breuken moest lang herstellen.
 ::
 
 Het voorkomen van melanoom, een zeer ernstige vorm van huidkanker, vereist attentie. De diagnose wordt gewoonlijk gesteld na een zorgvuldige onderzoekprocedure, inclusief een biopsie om te bevestigen dat de groei kankercellen is. Melanoom manifesteert zich meestal als een nieuw moedervlek die significant verandert in grootte, vorm of kleur. Het kan ook gepaard gaan met pijnlijke bloedingen.
