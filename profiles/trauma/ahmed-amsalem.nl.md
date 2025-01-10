@@ -23,10 +23,6 @@ Hallo David, op deze webpagina vind je meer informatie over je leven na je ongev
 
 # Mijn profiel
 
-::profile
----
-::
-
 :chapters
 
 # Mijn profiel
