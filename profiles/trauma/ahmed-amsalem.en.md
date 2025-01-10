@@ -16,7 +16,7 @@ languages:
 ::
 
 ::intro
-Hallo Ahmed, op deze webpagina vind je meer informatie over je leven na je ongeval in 2024. Aan de hand van jouw persoonlijke gegevens hebben we informatie samengesteld die voor jou handig kan zijn bij het herstel na je ongeval.
+Hallo David, op deze webpagina vind je meer informatie over je leven na je ongeval in 2024. Aan de hand van jouw persoonlijke gegevens hebben we informatie samengesteld die voor jou handig kan zijn bij het herstel na je ongeval. Je krijgt informatie op basis van je Elektronische Patienten Dossier en gegevens die je bij je eigen situatie hebt ingevuld.
 ::
 
 :chapters
@@ -44,24 +44,7 @@ image: 5
 In 2019 kreeg ik een ongeluk waarbij ik veel breuken opliep. Erg onhandig, want voor al die verschillende breuken moest lang herstellen.
 ::
 
-Het voorkomen van melanoom, een zeer ernstige vorm van huidkanker, vereist attentie. De diagnose wordt gewoonlijk gesteld na een zorgvuldige onderzoekprocedure, inclusief een biopsie om te bevestigen dat de groei kankercellen is. Melanoom manifesteert zich meestal als een nieuw moedervlek die significant verandert in grootte, vorm of kleur. Het kan ook gepaard gaan met pijnlijke bloedingen.
 
-# Wat is een melanoom?
-
-Een melanoom is een soort huidkanker die ontstaat wanneer er in de huid abnormale cellen zijn, die zich snel delen en uitgroeien tot een tumor. Melanomen worden meestal veroorzaakt door schade aan het DNA van melanocyten (cellen die pigment produceren) door straling, chemische stoffen of virussen.
-
-Melanome kunnen erg gevaarlijk zijn omdat ze zich snel in de omgeving van de oorspronkelijke tumor verspreiden. Ze worden vaak voorgesteld als een donkerder teint op de huid, maar deze verschijnselen kunnen ook erg divers zijn, van kleine, fijne punten tot grote en heldere zwellingen.
-
-Er zijn verschillende soorten melanomen:
-
-1. **Melanoom (invasief)**: Dit is de meest gevaarlijke vorm van melanoom, waarbij abnormale cellen zich delen en zich uitbreiden naar omringende weefsels.
-2. **Radiale melanoom**: Een minder agressieve vorm van melanoom die zich uitsluitend in de oppervlakte van de huid bevindt.
-3. **Spindlecelmelanoom**: Een nog minder agressieve vorm van melanoom, voornamelijk gevonden bij vrouwen.
-
-Melanomen zijn gevaarlijk omdat ze kunnen uitgroeien tot ernstige gezondheidsproblemen als:
-
-*   De tumor zich naar de alvleeswortel verspreidt (metastaseren), waarbij er cellen in andere delen van het lichaam worden gevonden.
-*   Het omgevingweefsel wordt beschadigd en pijnlijk is, wat moeilijk te behandelen kan zijn.
 
 ::combined-charts
 ---
