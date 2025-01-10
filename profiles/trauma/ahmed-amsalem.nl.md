@@ -16,7 +16,16 @@ languages:
 ::
 
 ::intro
-Hallo Ahmed, op deze webpagina vind je meer informatie over je diagnose. Aan de hand van jouw persoonlijke profiel hebben we tekst en data samengesteld die voor jou relevant is.
+::intro
+Hallo David, op deze webpagina vind je meer informatie over je leven na je ongeval in 2024. Aan de hand van jouw persoonlijke gegevens hebben we informatie samengesteld die voor jou handig kan zijn bij het herstel na je ongeval. Je krijgt informatie op basis van je Elektronische Patienten Dossier en gegevens die je bij je eigen situatie hebt ingevuld.
+::
+
+:chapters
+
+# Mijn profiel
+
+::profile
+---
 ::
 
 :chapters
