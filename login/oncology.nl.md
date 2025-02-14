@@ -2,7 +2,7 @@
 ---
 folder: oncology
 ---
-Welkom bij **_Wat nu?_**, je digitale hulp voor het begrijpelijker maken van je diagnose aan de hand van cijfers, uitleg en ervaringen. 
+Welkom bij **_Wat nu?_**, je persoonlijke digitale hulp voor het leven met en na kanker. Je kunt hier persoonlijke cijfers, uitleg en verhalen inzien.
 
-Hier kan je inloggen met je Elektronisch Patiëntendossier (EPD). Voor de demo kan je hieronder een fictief dossier selecteren. 
+Hieronder kun je inloggen door verschillende gegevens te koppelen aan jouw persoonlijke digitale hulp. 
 ::
