@@ -21,7 +21,7 @@ languages:
 ::
 
 ::intro
-Hallo Ahmed, op deze webpagina vind je meer informatie over je diagnose. Aan de hand van jouw persoonlijke profiel hebben we tekst en data samengesteld die voor jou relevant is.
+Hallo Ahmed2, op deze webpagina vind je meer informatie over je diagnose. Aan de hand van jouw persoonlijke profiel hebben we tekst en data samengesteld die voor jou relevant is.
 ::
 
 :chapters
